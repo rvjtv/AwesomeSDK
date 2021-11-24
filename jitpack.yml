@@ -1,4 +1,2 @@
 before_install:
-  - npm install
-  - npm run build:android
   - cd android
