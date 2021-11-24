@@ -28,6 +28,10 @@
         "source": "/Users/b0200255/Documents/DEV/AwesomeSDK/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/b0200255/Documents/DEV/AwesomeSDK/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/b0200255/Documents/DEV/AwesomeSDK/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
         "merged": "/Users/b0200255/Documents/DEV/AwesomeSDK/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/Users/b0200255/Documents/DEV/AwesomeSDK/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
